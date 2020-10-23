@@ -1,6 +1,4 @@
-What do honeypots look like in the real world?
-
-Efforts to find and list Honorlock honeypot domains
+What do honeypots look like in the real world? This repo contains efforts to find and list Honorlock honeypot domains. These lists are _far_ from complete.
 
 live-sites.txt lists.. well... live sites.
 
