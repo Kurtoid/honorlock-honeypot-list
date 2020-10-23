@@ -19,3 +19,4 @@
 * body usually starts with two <audio /> tags
 * adds "onClick" listener to buttons to play some audio
 * loads inspectlet
+* adds js call ghostConsole() to add invisible text to page. I'm guessing this is for inspectlet to capture
