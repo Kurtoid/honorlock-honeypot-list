@@ -1,5 +1,6 @@
-# found via known js
+# found via known term
 copyhomework.com
+studyeffect.com
 # hosts examequip.com, but domain no longer works
 ec2-52-20-222-3.compute-1.amazonaws.com
 
