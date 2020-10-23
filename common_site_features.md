@@ -1,3 +1,10 @@
+# techniques
+use questions posted on existing known sites
+non-english questions work best
+look for simple site names.
+use a search thumbnail extension to quickly screen potential sites
+
+
 # simple tests
 simple, two-word URLs
 no logo. text-only wordmark
