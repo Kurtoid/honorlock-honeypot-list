@@ -14,6 +14,7 @@
 * question posts will have two buttons, usually "SHOW ANSWER" and "HIDE ANSWER
 * SSL uses LetsEncrypt
 * Posts often have an associated hash, which can be seen in the [OpenGraph](https://ogp.me/) meta tags in `<head>`.
+* Active: Registered from [Google Domians](https://www.whois.com/whois/quizlookup.com) using a privacy-protection service
 
 ## TODO: screenshots
 
