@@ -1,4 +1,4 @@
-How do Honorlock's honeypot sites actually work? This repo contains efforts to find and list Honorlock honeypot domains. These lists are _far_ from complete.
+How do Honorlock's honeypot sites actually work? This repo contains efforts to find and list Honorlock honeypot domains. Since we don't know how many there are, these lists are probably far from complete.
 
 `live-sites.txt` lists.. well... live sites.
 
