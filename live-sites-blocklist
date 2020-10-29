@@ -7,3 +7,7 @@
 ||quizlookup.com^
 ||studyeffect.com^
 ||testbooksolutions.com^
+
+! honorlock uses inspectlet to help match sessions to users
+! "Peter Lowe’s Ad and tracking server list" already blocks inspectlet, but just to be safe
+||inspectlet.com^$third-party
