@@ -1,0 +1,8 @@
+! import to uBlock Origin
+! https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web
+||copyhomework.com^
+||coursecopy.com^
+||quiztoolbox.com^
+||quizlookup.com^
+||studyeffect.com^
+||testbooksolutions.com^
