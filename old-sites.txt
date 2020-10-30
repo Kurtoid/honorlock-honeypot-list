@@ -9,7 +9,4 @@ gotgrade.com
 # found via search. doesnt seem live. confirmed via archive.org
 buzzfolder.com
 
-# found via search. error establishing database connection. confirmed via archive.org
-gradepack.com
-
 wikicram.com

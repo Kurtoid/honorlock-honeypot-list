@@ -4,6 +4,8 @@ studyeffect.com
 testbooksolutions.com
 quiztoolbox.com
 coursecopy.com
+gradepack.com
+
 # also appears as 34.192.170.18 on Google
 quizlookup.com
 
