@@ -9,6 +9,6 @@ gradepack.com
 # also appears as 34.192.170.18 on Google
 quizlookup.com
 
-# hosts examequip.com, but domain no longer works
+# hosts examequip.com. looks like a dev/testing server
 ec2-52-20-222-3.compute-1.amazonaws.com
 

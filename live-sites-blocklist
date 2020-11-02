@@ -9,6 +9,9 @@
 ||studyeffect.com^
 ||testbooksolutions.com^
 
+! might as well add the dev server, just in case
+||ec2-52-20-222-3.compute-1.amazonaws.com^
+
 ! honorlock uses inspectlet to help match sessions to users
 ! "Peter Lowe’s Ad and tracking server list" already blocks inspectlet, but just to be safe
 ||inspectlet.com^$third-party
