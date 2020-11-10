@@ -1,12 +1,13 @@
-# found via blind search. likely abandoned; domain is parked now
+# older sites no longer used/owned by HL
 examequip.com
 quizgrade.com
-# from patent filing
+wikicram.com
+
+# these don't seem live, but still owned by HL
+buzzfolder.com
+gradegenius.com
+
+# from patent filing, no longer owned
 prosubject.com
 cramlife.com
 gotgrade.com
-
-# found via search. doesnt seem live. confirmed via archive.org
-buzzfolder.com
-
-wikicram.com
