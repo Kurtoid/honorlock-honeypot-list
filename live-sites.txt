@@ -9,6 +9,7 @@ coursecopy.com
 # its back! looks like they're upgrading things!
 # looks like they're doing a new version. no more ghostConsole, so that's what i'll use to separate versions
 # v2 sites
+examequip.com
 buzzfolder.com
 gradepack.com
 quizlookup.com
