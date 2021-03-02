@@ -1,7 +1,5 @@
 # older sites no longer used/owned by HL
-examequip.com
 quizgrade.com
-wikicram.com
 gradegenius.com
 
 # from patent filing, no longer owned
