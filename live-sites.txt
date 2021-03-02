@@ -1,3 +1,4 @@
+# v1 sites - identifiable by ghostConsole
 # found via known term
 copyhomework.com
 studyeffect.com
@@ -7,11 +8,9 @@ coursecopy.com
 
 # its back! looks like they're upgrading things!
 # looks like they're doing a new version. no more ghostConsole, so that's what i'll use to separate versions
+# v2 sites
 buzzfolder.com
-# gradepack also uses the new code
 gradepack.com
-
-# also appears as 34.192.170.18 on Google
 quizlookup.com
 
 # hosts examequip.com. looks like a dev/testing server
