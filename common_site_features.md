@@ -11,7 +11,7 @@
 * simple, two-word URLs
 * no logo; text-only wordmark
 * home/index page has some variant of "Hello, this website is under construction. If you have any questions, please contact the system administrator."
-* question posts will have two buttons, usually "SHOW ANSWER" and "HIDE ANSWER
+* question posts will have two buttons, usually "SHOW ANSWER" and "HIDE ANSWER"
 * SSL uses LetsEncrypt
 * Posts often have an associated hash, which can be seen in the [OpenGraph](https://ogp.me/) meta tags in `<head>`.
 * Active: Registered from [Google Domians](https://www.whois.com/whois/quizlookup.com) using a privacy-protection service
@@ -23,3 +23,6 @@
 * adds "onClick" listener to *all* buttons to play some audio
 * loads inspectlet
 * adds js call ghostConsole() to add invisible text to page. I'm guessing this is for inspectlet to capture
+
+# scratch notes
+XPath for "real" question: `//div[@class="panel-heading" and not(contains(text(),"–"))]`

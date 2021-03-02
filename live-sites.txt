@@ -6,6 +6,9 @@ quiztoolbox.com
 coursecopy.com
 gradepack.com
 
+# its back! looks like they're upgrading things!
+buzzfolder.com
+
 # also appears as 34.192.170.18 on Google
 quizlookup.com
 
