@@ -2,8 +2,6 @@
 examequip.com
 quizgrade.com
 wikicram.com
-
-# these don't seem live, but still owned by HL
 gradegenius.com
 
 # from patent filing, no longer owned
