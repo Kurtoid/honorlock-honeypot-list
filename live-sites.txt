@@ -4,10 +4,12 @@ studyeffect.com
 testbooksolutions.com
 quiztoolbox.com
 coursecopy.com
-gradepack.com
 
 # its back! looks like they're upgrading things!
+# looks like they're doing a new version. no more ghostConsole, so that's what i'll use to separate versions
 buzzfolder.com
+# gradepack also uses the new code
+gradepack.com
 
 # also appears as 34.192.170.18 on Google
 quizlookup.com
