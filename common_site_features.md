@@ -1,3 +1,6 @@
+## TODO: update for 2nd gen sites
+
+
 # Techniques for finding HL Honeypots
 * use questions posted on existing known sites
 * non-english questions work best
@@ -5,7 +8,6 @@
 * use a search thumbnail extension to quickly screen potential sites
 * if down, check archive.org and add to old-sites.txt
 * Use Google searches targeting their Ghost plugin (such as [this one](https://www.google.com/search?q=%22ghost+init%22+%22Audiocast%22&hl=en&filter=0&biw=1536&bih=760))
-
 
 # common features
 * simple, two-word URLs
