@@ -1,6 +1,7 @@
 ! import to uBlock Origin
 ! https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web
 ! use this address: https://raw.githubusercontent.com/Kurtoid/honorlock-honeypot-list/main/live-sites-blocklist
+||buzzfolder.com^
 ||copyhomework.com^
 ||coursecopy.com^
 ||gradepack.com^
