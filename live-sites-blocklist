@@ -10,6 +10,13 @@
 ||studyeffect.com^
 ||testbooksolutions.com^
 
+! beta: block any page that includes their inspectlet plugin
+! this should prevent any sound from playing, but needs testing
+! this could cause the browser to slow!
+! TODO: warn the user that this is a honeypot
+*##html>body:has(#hl-seed-site-tracker-inspectlet-js)
+
+
 ! might as well add the dev server, just in case
 ||ec2-52-20-222-3.compute-1.amazonaws.com^
 
