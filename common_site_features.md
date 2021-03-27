@@ -2,6 +2,14 @@
 
 
 # Techniques for finding HL Honeypots
+## for version 2 sites
+Until a few days ago (27/3/2021), all of the new sites had `noindex,nofollow` set on all of them. As of today, it looks like the sites are now indexable by search engines!
+
+A simple query targeting their privacy policy (I know, they listened!) seems to work: `"complaints directly to us at privacy@hlprivacy.com"`. I'm using the privacy policy as it seems to be constant between sites - the front matter is different for each site.
+
+Other observations: Remember the `battlemedialab` account that appeared in `wpscan` on the v1 sites? We know now where they come in: they write the front matter on the v2 sites.
+
+## old, for v1 sites
 * use questions posted on existing known sites
 * non-english questions work best
 * look for simple site names like buzzfolder or studyeffect
