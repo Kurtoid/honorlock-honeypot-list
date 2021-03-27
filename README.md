@@ -13,7 +13,7 @@ How do Honorlock's honeypot sites actually work? This repo contains efforts to f
 
 Don't cheat, folks.
 
-# Techniques for finding HL Honeypots
+# some random notes/observations
 Until a few days ago (27/3/2021), all of the new sites had `noindex,nofollow` set on all of them. As of today, it looks like the sites are now indexable by search engines!
 
 A simple query targeting their privacy policy (they listened!) seems to work: `"complaints directly to us at privacy@hlprivacy.com"`. I'm using the privacy policy as it seems to be constant between sites - the front matter is different for each site.
