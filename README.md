@@ -26,4 +26,4 @@ Looks like our uBlock submission worked: only sites that I _didn't_ submit got u
 Also, if you're reading this: Hello Honorlock!
 
 ## on the v1 sites
-This file originally contained instructions/info on their v1 sites - I'm removing it to keep this file clean - find the old text in the git commit history.
+This file originally contained instructions/info on their v1 sites - I'm removing it to keep this file clean - find the [old text in the git commit history](https://github.com/Kurtoid/honorlock-honeypot-list/blob/dc36f1cb37bffe5570e351a6a73e1ba639a85fc1/common_site_features.md).
