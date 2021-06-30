@@ -14,7 +14,3 @@ buzzfolder.com
 gradepack.com
 quizlookup.com
 wikicram.com
-
-# hosts examequip.com. looks like a dev/testing server
-ec2-52-20-222-3.compute-1.amazonaws.com
-
