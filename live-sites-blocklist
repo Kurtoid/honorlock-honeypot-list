@@ -15,7 +15,7 @@
 ! this could cause the browser to slow!
 ! EDIT Aug 6 2021 - no noticable slowdown
 ! TODO: warn the user that this is a honeypot
-*##html>body:has(#hl-seed-site-tracker-inspectlet-js)
+*##html>body:has(#hl-seed-site-tracker-rrweb-js)
 
 ! honorlock uses inspectlet to help match sessions to users
 ! "Peter Lowe’s Ad and tracking server list" already blocks inspectlet, but just to be safe
