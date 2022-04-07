@@ -17,6 +17,15 @@
 ! TODO: warn the user that this is a honeypot
 *##html>body:has(#hl-seed-site-tracker-rrweb-js)
 
+! disable rrweb session recording library
+||jsdelivr.net^*/rrweb.min.js
+
+! block recordings endpoint
+! TODO: how much of app.honorlock.com can we block without breaking normal test functionality?
+! if this causes issues, block "app.honorlock.com/visitors/recordings" instead
+app.honorlock.com/visitors/*
+
 ! honorlock uses inspectlet to help match sessions to users
+! note (2022): honorlock now uses rrweb. remove this
 ! "Peter Lowe’s Ad and tracking server list" already blocks inspectlet, but just to be safe
 ||inspectlet.com^$third-party
